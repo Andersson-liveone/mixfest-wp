@@ -1,4 +1,3 @@
-
 @charset "UTF-8";
 
 /*
@@ -20,7 +19,6 @@ Requires PHP: 5.8
 html.hugo-wp-theme body {
   background-color: white;
 }
-
 html.hugo-wp-theme .h-down-arrow {
   position: absolute !important;
   bottom: 0;
